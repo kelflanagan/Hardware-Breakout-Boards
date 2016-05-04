@@ -1,0 +1,7 @@
+Partlist exported from /Users/kelly/Dropbox/hardware/Breakout Boards/SPI Memory.sch at 2/23/13 7:46 PM
+
+Part Value         Device         Package       Description    
+JP1                PINHD-1X4      1X04          PIN HEADER     
+JP2                PINHD-1X4      1X04          PIN HEADER     
+R1   100k          0603_RESISTOR  0603_RESISTOR                
+U$1  M25P32-VMW6TG SOIC8-W_MEMORY SOIC8_W       SOIC8-W Memory 

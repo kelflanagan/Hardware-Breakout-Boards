@@ -1,0 +1,24 @@
+Partlist exported from /Users/kelly/Dropbox/hardware/Breakout Boards/Amplifier Breakout.sch at 2/23/13 2:22 PM
+
+Part Value   Device        Package       Description                
+C5   1uF     0805_CAP      FB-0805       0805 Capacitor             
+C6   1uF     0805_CAP      FB-0805       0805 Capacitor             
+C7   100uF   CAP_POL_F     CAP_F         Panasonic Size F Capacitor 
+C8   1uF     0805_CAP      FB-0805       0805 Capacitor             
+C9   1uF     0603_CAP      0603_RESISTOR 0603 Capacitor             
+C10  0.47uF  0603_CAP      0603_RESISTOR 0603 Capacitor             
+C11  1uF     0603_CAP      0603_RESISTOR 0603 Capacitor             
+C12  330pF   0603_CAP      0603_RESISTOR 0603 Capacitor             
+C13  330pF   0603_CAP      0603_RESISTOR 0603 Capacitor             
+C14  1uF     0805_CAP      FB-0805       0805 Capacitor             
+C15  0.1uF   0603_CAP      0603_RESISTOR 0603 Capacitor             
+C16  1uF     0603_CAP      0603_RESISTOR 0603 Capacitor             
+FB1  22uH    FB            FB-0805       Ferrite Bead 0805          
+FB2  600     FB            FB-0805       Ferrite Bead 0805          
+FB3  600     FB            FB-0805       Ferrite Bead 0805          
+JP1          PINHD-1X4     1X04          PIN HEADER                 
+JP2          PINHD-1X4     1X04          PIN HEADER                 
+MAX1 MAX9737 MAX9737       TQFN24        MAX9737                    
+R1   20k     0603_RESISTOR 0603_RESISTOR                            
+R2   20k     0603_RESISTOR 0603_RESISTOR                            
+R3   100k    0603_RESISTOR 0603_RESISTOR                            

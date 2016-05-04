@@ -1,0 +1,21 @@
+Part Value          Device          Package       Description                      
+C1   0.1uF          0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C2   0.1uF          0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C3   18pF           0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C4   0.1uF          0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C5   18pF           0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C6   0.1uF          0603_CAP        0603_RESISTOR 0603 Capacitor                   
+C7   0.1uF          0603_CAP        0603_RESISTOR 0603 Capacitor                   
+HD1  HEADER2X3      HEADER2X3       HEADER2X3                                      
+IC1  AT90USB1287-AU AT90USB1287-AU  TQFP64        Atmel AT90USB1287                
+JP3                 PINHD-1X20      1X20          PIN HEADER                       
+JP4                 PINHD-1X20      1X20          PIN HEADER                       
+LED1                LEDCHIP-LED0603 CHIP-LED0603  LED                              
+LED2                LEDCHIP-LED0603 CHIP-LED0603  LED                              
+R1   10k            0603_RESISTOR   0603_RESISTOR                                  
+R2   680            0603_RESISTOR   0603_RESISTOR                                  
+R3   680            0603_RESISTOR   0603_RESISTOR                                  
+R4   10k            0603_RESISTOR   0603_RESISTOR                                  
+SW1                 TAC-SWITCH      TAC-SWITCH                                     
+U$1  RN-131G        RN-131G         RN-131G       Roving Netowrks WiFLy GSX Module 
+X1   8 MHz          CRYSTAL_5X3     CRYSTAL_5X3   Crystal 5mm x 3mm                

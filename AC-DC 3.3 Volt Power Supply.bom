@@ -1,0 +1,15 @@
+Partlist exported from /Users/kelly/Dropbox/hardware/Breakout Boards/AC-DC 3.3 Volt Power Supply.sch at 2/23/13 9:15 AM
+
+Part Value            Device           Package             Description                                             
+B1   DF06S            DF06S            DFS                 Surface Mount Glass Passivated Bridge Rectifiers        
+C1   1500uF           CAP_POL_J16      CAP_J16             POL J16 SMT CAP                                         
+C2   100uF            CAP_POL_F        CAP_F               Panasonic Size F Capacitor                              
+C3   330uF            CAP_POL_F        CAP_F               Panasonic Size F Capacitor                              
+C4   1500uF           CAP_POL_J16      CAP_J16             POL J16 SMT CAP                                         
+JP1                   PINHD-1X9        1X09                PIN HEADER                                              
+L1   SSR1208-1-2KL    DR125            DR125               High Power Density, High Efficiency, Shielded Inductors 
+LED1 GRN              LEDCHIP-LED0603  CHIP-LED0603        LED                                                     
+R1   680              0603_RESISTOR    0603_RESISTOR                                                               
+REG1 TL2575           TL2575           TO-263-6            3.3 Volt Switching Regulator                            
+TB1  TERMINAL_BLOCK_2 TERMINAL_BLOCK_2 TERMINL_BLOCK_2_POS Terminal Block 2 position                               
+Z1                    SCHOTTKY_DIODE   DIODE_SMB           1A Schottky Diode                                       

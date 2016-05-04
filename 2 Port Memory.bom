@@ -1,0 +1,12 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";
+"C1";"0.1uF";"0603_CAP";"0603_RESISTOR";"0603 Capacitor";"";"";"";"";
+"C6";"0.1uF";"0603_CAP";"0603_RESISTOR";"0603 Capacitor";"";"";"";"";
+"IC1";"AT45DB642D";"AT45DB642D";"28T-TSOP-1";"Flash-Memory 64-Megabit 2 .7-volt, Dual-interface, DataFlash";"";"AT45DB642D-TU";"1095799";"51P1801";
+"JP1";"";"PINHD-1X9";"1X09";"PIN HEADER";"";"";"";"";
+"JP2";"";"PINHD-1X9";"1X09";"PIN HEADER";"";"";"";"";
+"LED1";"";"LEDCHIP-LED0603";"CHIP-LED0603";"LED";"";"";"";"";
+"R1";"10k";"0603_RESISTOR";"0603_RESISTOR";"";"";"";"";"";
+"R2";"680";"0603_RESISTOR";"0603_RESISTOR";"";"";"";"";"";
+"R3";"10k";"0603_RESISTOR";"0603_RESISTOR";"";"";"";"";"";
+"R4";"10k";"0603_RESISTOR";"0603_RESISTOR";"";"";"";"";"";
+"R6";"10k";"0603_RESISTOR";"0603_RESISTOR";"";"";"";"";"";
